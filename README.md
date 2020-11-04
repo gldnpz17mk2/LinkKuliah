@@ -18,9 +18,10 @@
 * [Kewirausahaan]
   * [Kuliah](https://teams.microsoft.com/l/meetup-join/19%3a165fc6d653704ccdba75e36c58311f09%40thread.tacv2/1599709411868?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%228ee03321-55f7-46f9-870d-da6a0eed8bf7%22%7d)
   * [Presensi](https://docs.google.com/forms/u/1/d/e/1FAIpQLSceEdRqH3aVN2tYUcZDSehmDPcbdxeG3PrplxwlG8PTEB_feg/viewform?usp=send_form)
+  * [Presensi(new)](https://forms.gle/yLe4V6KAJh7gaUp27)
 
 * [Matematika Diskrit & Logika]
-  * [Kuliah](https://teams.microsoft.com/l/meetup-join/19%3aa5d37ce16f7448f1985a23c4c6c71fc6%40thread.tacv2/1599721824028?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%2205676819-257c-4b26-bb26-776f431ce735%22%7d)
+  * [Kuliah](https://ugm-spark.webex.com/ugm-spark/j.php?MTID=m4e8099e1c0b5fadff2851256807adb82)
   * [Presensi](https://docs.google.com/forms/d/e/1FAIpQLScu7Ujt2rB_Y3tUCX1rXy3qBMYiiPXvI-jQcCrjuAoNerTlgg/viewform)
 
 * [Sistem Mikroprosesor]
