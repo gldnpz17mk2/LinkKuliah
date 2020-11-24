@@ -8,7 +8,7 @@
   * [Presensi](https://docs.google.com/forms/d/e/1FAIpQLSdQJ7chLT9m_wYimpHQbuDrMkp0NXkQ6u1QoKJehuZ3A6gX1g/viewform)
 
 * [Manajemen Industri]
-  * [Kuliah]
+  * [Kuliah](https://zoom.us/j/3868769431?pwd=alNWNU1jTlVTOERZNTF1RjhpdjdqUT09)  
   * [Presensi](https://forms.gle/oddAP6jEehDfd9Zt8)
 
 * [Teknik Basis Data]
