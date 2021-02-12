@@ -1,6 +1,6 @@
 # Link Mata Kuliah Sem.4
 * [Arsitektur perangkat Lunak (A)]
-  * [Kuliah](https://teams.microsoft.com/l/team/19%3aaf823f6c70f045d890901c11f0f73da4%40thread.tacv2/conversations?groupId=04032bbd-fee4-439a-bda5-7aeb46ce670c&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56 Link pertemuan online: https://teams.microsoft.com/l/message/19:af823f6c70f045d890901c11f0f73da4@thread.tacv2/1612414273953?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=04032bbd-fee4-439a-bda5-7aeb46ce670c&parentMessageId=1612414273953&teamName=Arsitektur%20Perangkat%20Lunak-%20Genap%202020%2F2021&channelName=General&createdTime=1612414273953)
+  * [Kuliah](https://teams.microsoft.com/l/message/19:af823f6c70f045d890901c11f0f73da4@thread.tacv2/1612414273953?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=04032bbd-fee4-439a-bda5-7aeb46ce670c&parentMessageId=1612414273953&teamName=Arsitektur%20Perangkat%20Lunak-%20Genap%202020%2F2021&channelName=General&createdTime=1612414273953)
   * [Presensi](https://forms.gle/FtWtXSKfH9hBFzR2A)
  
 * [Teknik Digital (A)]
@@ -28,7 +28,7 @@
   * [Presensi](https://forms.gle/R5fcqbH2NaN7T9dw6)
 
 * [Rekayasa Perangkat Lunak (B)]
-  * [Kuliah](https://teams.microsoft.com/l/team/19%3a4e5de2a69d4344f6a9053cc793788fa1%40thread.tacv2/conversations?groupId=e91e0b6e-4391-4a48-9565-d709e5fc4f00&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56 Link pertemuan online: https://teams.microsoft.com/l/message/19:4e5de2a69d4344f6a9053cc793788fa1@thread.tacv2/1612428232692?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=e91e0b6e-4391-4a48-9565-d709e5fc4f00&parentMessageId=1612428232692&teamName=2020%2F2021-Genap-Rekayasa%20Perangkat%20Lunak&channelName=General&createdTime=1612428232692) -Ada 2
+  * [Kuliah](https://teams.microsoft.com/l/message/19:4e5de2a69d4344f6a9053cc793788fa1@thread.tacv2/1612428232692?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=e91e0b6e-4391-4a48-9565-d709e5fc4f00&parentMessageId=1612428232692&teamName=2020%2F2021-Genap-Rekayasa%20Perangkat%20Lunak&channelName=General&createdTime=1612428232692) -Ada 2
   * [Presensi](https://forms.gle/QQSxVLrsj8RKoWy38)
 
 * [Kapita Selekta (A)]
