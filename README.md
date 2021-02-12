@@ -28,7 +28,7 @@
   * [Presensi](https://forms.gle/R5fcqbH2NaN7T9dw6)
 
 * [Rekayasa Perangkat Lunak (B)]
-  * [Kuliah](https://teams.microsoft.com/l/message/19:4e5de2a69d4344f6a9053cc793788fa1@thread.tacv2/1612428232692?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=e91e0b6e-4391-4a48-9565-d709e5fc4f00&parentMessageId=1612428232692&teamName=2020%2F2021-Genap-Rekayasa%20Perangkat%20Lunak&channelName=General&createdTime=1612428232692) -Ada 2
+  * [Kuliah](https://teams.microsoft.com/l/message/19:4e5de2a69d4344f6a9053cc793788fa1@thread.tacv2/1612428232692?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=e91e0b6e-4391-4a48-9565-d709e5fc4f00&parentMessageId=1612428232692&teamName=2020%2F2021-Genap-Rekayasa%20Perangkat%20Lunak&channelName=General&createdTime=1612428232692)
   * [Presensi](https://forms.gle/QQSxVLrsj8RKoWy38)
 
 * [Kapita Selekta (A)]
