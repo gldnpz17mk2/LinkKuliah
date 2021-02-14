@@ -2,10 +2,12 @@
 * [Arsitektur perangkat Lunak (A)]
   * [Kuliah](https://teams.microsoft.com/l/message/19:af823f6c70f045d890901c11f0f73da4@thread.tacv2/1612414273953?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=04032bbd-fee4-439a-bda5-7aeb46ce670c&parentMessageId=1612414273953&teamName=Arsitektur%20Perangkat%20Lunak-%20Genap%202020%2F2021&channelName=General&createdTime=1612414273953)
   * [Presensi](https://forms.gle/FtWtXSKfH9hBFzR2A)
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5469)
  
 * [Teknik Digital (A)]
   * [Kuliah](https://teams.microsoft.com/l/team/19%3a7836597b1eb641ebb83c6629ac7860e6%40thread.tacv2/conversations?groupId=0fe62b98-bf91-4322-a5c5-d75c63284dae&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
   * [Presensi](https://forms.gle/qf8xiSDDghnnrenY8)
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5061)
  
 * [Teknik Visualisasi Grafis (A)]
   * [Kuliah](ugm.id/Ruang1)
@@ -14,22 +16,27 @@
 * [Medan Elektromagnetis (A)]
   * [Kuliah](https://teams.microsoft.com/l/meetup-join/19%3a29913bc2c5644ea0af3fa7fa725b87af%40thread.tacv2/1599658180658?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22374f9416-a91e-4c13-aa10-d8bf52cb1d6d%22%7d)
   * [Presensi](https://forms.gle/yD3EhHC8tLfk8ZHT8)
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5231)
  
 * [Interaksi Manusia & Komputer (A)]
   * [Kuliah](https://teams.microsoft.com/l/team/19%3a5f05f9669756459ca731354929f1f000%40thread.tacv2/conversations?groupId=e690e184-010f-4a12-a699-d364b30f7ca5&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
   * [Presensi](https://forms.gle/2UWTZM7eEWL2YfeGA)
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5131)
 
 * [Kecerdasan Buatan (B)]
   * [Kuliah](https://teams.microsoft.com/l/team/19%3ad5697830992146a0a7efc6d8ba363e98%40thread.tacv2/conversations?groupId=be49f292-90cd-4350-9a16-0cd3b3e8cfcc&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
   * [Presensi](https://forms.gle/rkEXMAbwvd8sD1iq6)
+  * [eLOK]() - TBA
 
 * [Aljabar Linear (A)]
   * [Kuliah](https://teams.microsoft.com/l/team/19%3ade8332086b6a4083af96d06eefd7505b%40thread.tacv2/conversations?groupId=50510eb8-a023-44a1-894c-7ad772275da1&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
   * [Presensi](https://forms.gle/R5fcqbH2NaN7T9dw6)
+  * [eLOK]() - TBA?
 
 * [Rekayasa Perangkat Lunak (B)]
   * [Kuliah](https://teams.microsoft.com/l/message/19:4e5de2a69d4344f6a9053cc793788fa1@thread.tacv2/1612428232692?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=e91e0b6e-4391-4a48-9565-d709e5fc4f00&parentMessageId=1612428232692&teamName=2020%2F2021-Genap-Rekayasa%20Perangkat%20Lunak&channelName=General&createdTime=1612428232692)
   * [Presensi](https://forms.gle/QQSxVLrsj8RKoWy38)
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5100)
 
 * [Kapita Selekta (A)]
   * [Kuliah](https://us02web.zoom.us/j/88612559306?pwd=ckMyTHZLc0FUUFptRzh1RlMzWVdaZz09) -Diinfo dadakan
