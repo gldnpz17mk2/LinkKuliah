@@ -10,7 +10,7 @@
   * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5061)
  
 * [Teknik Visualisasi Grafis (A)]
-  * [Kuliah](ugm.id/Ruang1)
+  * [Kuliah](https://ugm.id/Ruang1)
   * [Presensi](https://forms.gle/7ukUae2CY2xQP7AL9)
   
 * [Medan Elektromagnetis (A)]
