@@ -26,7 +26,7 @@
 * [Kecerdasan Buatan (B)]
   * [Kuliah](https://teams.microsoft.com/l/team/19%3ad5697830992146a0a7efc6d8ba363e98%40thread.tacv2/conversations?groupId=be49f292-90cd-4350-9a16-0cd3b3e8cfcc&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
   * [Presensi](https://forms.gle/rkEXMAbwvd8sD1iq6)
-  * [eLOK]() - TBA
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5733)
 
 * [Aljabar Linear (A)]
   * [Kuliah](https://teams.microsoft.com/l/team/19%3ade8332086b6a4083af96d06eefd7505b%40thread.tacv2/conversations?groupId=50510eb8-a023-44a1-894c-7ad772275da1&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
