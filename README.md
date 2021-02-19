@@ -40,7 +40,8 @@
 
 * [Kapita Selekta (A)]
   * [Kuliah](https://us02web.zoom.us/j/88612559306?pwd=ckMyTHZLc0FUUFptRzh1RlMzWVdaZz09) -Diinfo dadakan
-  * [Presensi]() -TBA
+  * [Presensi](https://docs.google.com/forms/d/e/1FAIpQLScTEjQVPBYnHyIzXm0iYH0JgBFpzPTutxiy_Nt9VM-Zh8Ud3A/closedform) 
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5201)
 
 
 # Link Mata Kuliah Sem.3
