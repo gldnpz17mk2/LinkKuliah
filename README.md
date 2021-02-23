@@ -43,6 +43,8 @@
   * [Presensi](https://forms.gle/A2H3TLSdaiE82U16A) 
   * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5201)
 
+* [Metode Numeris]
+  * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5297)
 
 # Link Mata Kuliah Sem.3
 * [Isyarat & Sistem]  
