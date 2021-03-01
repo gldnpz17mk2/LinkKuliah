@@ -5,7 +5,8 @@
   * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5469)
  
 * [Teknik Digital (A)]
-  * [Kuliah](https://teams.microsoft.com/l/team/19%3a7836597b1eb641ebb83c6629ac7860e6%40thread.tacv2/conversations?groupId=0fe62b98-bf91-4322-a5c5-d75c63284dae&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
+  * [Kuliah(pra-UTS)](https://teams.microsoft.com/l/channel/19%3ad4e36ff75e3b4a1b9e4459cff24e2692%40thread.tacv2/General?groupId=0fc7b8d9-cec8-4baa-b6a2-61a8011370a7&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56) 
+  * [Kuliah(pasca-UTS)](https://teams.microsoft.com/l/team/19%3a7836597b1eb641ebb83c6629ac7860e6%40thread.tacv2/conversations?groupId=0fe62b98-bf91-4322-a5c5-d75c63284dae&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56)
   * [Presensi](https://forms.gle/qf8xiSDDghnnrenY8)
   * [eLOK](https://elok.ugm.ac.id/course/view.php?id=5061)
  
